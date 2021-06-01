@@ -2,4 +2,4 @@
 
 A simple snake game.
 
-<img src="https://raw.githubusercontent.com/zomeru/Snake/Snake.jpg" alt="Snake"/>
+<img src="https://raw.githubusercontent.com/zomeru/Snake/main/Snake.jpg" alt="Snake"/>
